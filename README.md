@@ -2,4 +2,4 @@
 
 ## The typical authorization using jwt
 
-![screen shot](https://i.ibb.co/s95jfVH/Screenshot-2.png)
+![screen shot](https://i.ibb.co/fSNL5cY/Screenshot-3.png)
